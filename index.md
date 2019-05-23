@@ -8,8 +8,22 @@
 
 ### Objetivo
 
-   - Estágio na área de engenharia da computação, informática
+   Estágio na área de engenharia da computação, informática
+   Estágio na área de Jogos Digitais
 
+### Formação
+
+   Engenharia da Computação. Universidade Veiga de Almeida - UVA - (7°período)
+   Jogos Digitais. Universidade Veiga de Almeida – UVA, previsão de conclusão: dezembro 2021. (Atualmente 1° período)
+   Colégio e Curso Ponto de Ensino (Pensi) - 2008 a 2015
+   
+### Experiência Profissional
+
+   Nenhuma Anterior
+   
+### Idiomas
+
+   
 ```markdown
 Syntax highlighted code block
 
