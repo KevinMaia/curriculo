@@ -8,40 +8,40 @@
 
 ### Objetivo
 
-   Estágio na área de engenharia da computação, informática
+   Estágio na área de engenharia da computação, informática<br>
    Estágio na área de Jogos Digitais
 
 ### Formação
 
-   Engenharia da Computação. Universidade Veiga de Almeida - UVA - (7°período)
-   Jogos Digitais. Universidade Veiga de Almeida – UVA, previsão de conclusão: dezembro 2021. (Atualmente 1° período)
-   Colégio e Curso Ponto de Ensino (Pensi) - 2008 a 2015
+   Engenharia da Computação. Universidade Veiga de Almeida - UVA - (7°período)<br>
+   Jogos Digitais. Universidade Veiga de Almeida – UVA, previsão de conclusão: dezembro 2021. (Atualmente 1° período)<br>
+   Colégio e Curso Ponto de Ensino (Pensi) - 2008 a 2015<br>
    
 ### Experiência Profissional
 
    Nenhuma Anterior
    
 ### Idiomas
-   Inglês (Nível Básico)
-   Espanhol (Nível Básico)
-   Japonês (Nivel Básico)
+   Inglês - Nível Básico<br>
+   Espanhol - Nível Básico<br>
+   Japonês - Nivel Básico<br>
 
 ### Conhecimentos de Informática
 
-   Pacote Office (Word, Excel, PowerPoint) (Nível intermediário, com ênfase em Excel)
-   Adobe Photoshop (Nível Intermediário)
-   Adobe Illustrator (Nível Básico)
-   Adobe AutoCad (Nível Básico)
-   MS Project (Nível Básico)
+   Pacote Office (Word, Excel, PowerPoint) - Nível intermediário, com ênfase em Excel<br>
+   Adobe Photoshop - Nível Intermediário<br>
+   Adobe Illustrator - Nível Básico<br>
+   Adobe AutoCad - Nível Básico<br>
+   MS Project - Nível Básico<br>
    
 ### Atividades Extracurriculares
 
-   Curso Excel - Senac Madureira (Com certificado)
-   Curso Excel Avançado - Senac Madureira (Com certificado)
-   Montador e Reparador de Computadores - Senac Madureira (Com certificado)
-   Curso em Gestão de Projetos PMI - Microsoft© (Com certificado)
-   Extensão com o curso de Liderança e Empreendedorismo (Com Certificado)
-   SAP ERP Intelligence - MDL Consulting - Principais processos do ERP SAP R/3 (Com Certificado)
+   Curso Excel - Senac Madureira (Com certificado)<br>
+   Curso Excel Avançado - Senac Madureira (Com certificado)<br>
+   Montador e Reparador de Computadores - Senac Madureira (Com certificado)<br>
+   Curso em Gestão de Projetos PMI - Microsoft© (Com certificado)<br>
+   Extensão com o curso de Liderança e Empreendedorismo (Com Certificado)<br>
+   SAP ERP Intelligence - MDL Consulting - Principais processos do ERP SAP R/3 (Com Certificado)<br>
    
    
 ```markdown
