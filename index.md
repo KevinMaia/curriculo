@@ -5,30 +5,25 @@
     Rio de Janeiro - RJ<br>
     Telefone(s): (21)96472-4033 / (21)3015-3139<br>
     E-mail: kevinwmmaia@gmail.com</p>
-    
-    <h2>Objetivo</h2>
+    <h2>Objetivo<h2>
         <ul>
         <li>Estágio na área de engenharia da computação, informática</li>
         <li>Estágio na área de Jogos Digitais</li>
         </ul>
-    
     <h2>Formação</h2>
         <ul>
         <li>Engenharia da Computação. Universidade Veiga de Almeida - UVA - (7°período)</li>
         <li>Jogos Digitais. Universidade Veiga de Almeida – UVA, previsão de conclusão: dezembro 2021. (Atualmente 1° período)</li>
         <li>Colégio e Curso Ponto de Ensino (Pensi) - 2008 a 2015</li>
         </ul>
-    
     <h2>Experiência Profissional</h2>
         <p>Nenhuma Anterior</p>
-    
     <h2>Idiomas</h2>
     <ul>
         <li>Inglês - Nível Básico</li>
         <li>Espanhol - Nível Básico</li>
         <li>Japonês - Nível Básico</li>    
     </ul>
-    
     <h2>Conhecimentos de Informática</h2>
         <ul>
             <li>Pacote Office (Word, Excel, PowerPoint) - Nível intermediário, com ênfase em Excel.</li>
@@ -37,7 +32,6 @@
             <li>Adobe AutoCad - Nível Básico</li>
             <li>MS Project - Nível Básico</li>
         </ul>
-    
     <h2>Atividades Extracurriculares</h2>
         <ul>
             <li>Curso Excel - Senac Madureira (Com certificado)</li>
