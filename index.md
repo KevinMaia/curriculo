@@ -22,7 +22,27 @@
    Nenhuma Anterior
    
 ### Idiomas
+   Inglês (Nível Básico)
+   Espanhol (Nível Básico)
+   Japonês (Nivel Básico)
 
+### Conhecimentos de Informática
+
+   Pacote Office (Word, Excel, PowerPoint) (Nível intermediário, com ênfase em Excel)
+   Adobe Photoshop (Nível Intermediário)
+   Adobe Illustrator (Nível Básico)
+   Adobe AutoCad (Nível Básico)
+   MS Project (Nível Básico)
+   
+### Atividades Extracurriculares
+
+   Curso Excel - Senac Madureira (Com certificado)
+   Curso Excel Avançado - Senac Madureira (Com certificado)
+   Montador e Reparador de Computadores - Senac Madureira (Com certificado)
+   Curso em Gestão de Projetos PMI - Microsoft© (Com certificado)
+   Extensão com o curso de Liderança e Empreendedorismo (Com Certificado)
+   SAP ERP Intelligence - MDL Consulting - Principais processos do ERP SAP R/3 (Com Certificado)
+   
    
 ```markdown
 Syntax highlighted code block
