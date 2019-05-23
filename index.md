@@ -8,7 +8,7 @@
 
 ### Objetivo
 
-- Estágio na área de engenharia da computação, informática
+   - Estágio na área de engenharia da computação, informática
 
 ```markdown
 Syntax highlighted code block
