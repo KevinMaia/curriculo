@@ -8,7 +8,7 @@
 
 ### Objetivo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Estágio na área de engenharia da computação, informática
 
 ```markdown
 Syntax highlighted code block
