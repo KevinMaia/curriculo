@@ -1,7 +1,10 @@
 ## Kevin William Magalhães Maia
 
-    Brasileiro, solteiro, 21 anos<br>
-    Rua Carlos Xavier - 352 - Casa 11 - Oswaldo Cruz
+   Brasileiro, solteiro, 21 anos<br>
+   Rua Carlos Xavier - 352 - Casa 11 - Oswaldo Cruz
+   Rio de Janeiro - RJ<br>
+   Telefone(s): (21)96472-4033 / (21)3015-3139<br>
+   E-mail: kevinwmmaia@gmail.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
