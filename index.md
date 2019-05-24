@@ -42,3 +42,4 @@
    Curso em Gestão de Projetos PMI - Microsoft© (Com certificado)<br>
    Extensão com o curso de Liderança e Empreendedorismo (Com Certificado)<br>
    SAP ERP Intelligence - MDL Consulting - Principais processos do ERP SAP R/3 (Com Certificado)<br>
+   Curso Online Unity 5 + C#: Simplificando o Desenvolvimento de Jogos
