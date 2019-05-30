@@ -31,6 +31,8 @@
    Pacote Office (Word, Excel, PowerPoint) - Nível intermediário, com ênfase em Excel<br>
    Adobe Photoshop - Nível Intermediário<br>
    Adobe Illustrator - Nível Básico<br>
+   Construct 2 - Nível Básico<br>
+   3Ds Max - Nível Básico<br>
    Adobe AutoCad - Nível Básico<br>
    MS Project - Nível Básico<br>
    
