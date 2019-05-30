@@ -8,8 +8,8 @@
 
 ### Objetivo
 
-   Estágio na área de engenharia da computação, informática<br>
-   Estágio na área de Jogos Digitais
+   Cargo na área de engenharia da computação, informática<br>
+   Cargo na área de Jogos Digitais
 
 ### Formação
 
